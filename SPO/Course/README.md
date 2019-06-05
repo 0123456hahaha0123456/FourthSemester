@@ -1,4 +1,6 @@
+
 # First Step(25-26)
+## [Forthress](https://github.com/sayon/forthress/tree/6e0f96ec63e9c97e0233bcbd3175ca36a760bb03)
 ## Exercise 1 
 Изучите файл README.md в репозитории Forthress. Он хранит в себе все слова, которые определены в ядре Forthress
 ## Exercise 2
@@ -33,4 +35,4 @@
 ## RUN
 Copy file result.frt to folder forthress
  
-** cat result.frt - | ./start **
+cat result.frt - | ./start 
