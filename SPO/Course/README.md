@@ -33,6 +33,6 @@
 Последовательность Коллатца всегда приходит к единице, но никто не знает, почему.
 
 ## RUN
-Copy file result.frt to folder forthress
+Copy file *result.frt* to folder forthress
  
-cat result.frt - | ./start 
+**_cat result.frt - | ./start_**
