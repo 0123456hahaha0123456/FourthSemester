@@ -1,0 +1,8 @@
+total 632
+-rw-rw-r-- 1 shinchan shinchan 482313 мар  4 02:33 1.mf
+-rw-r--r-- 1 shinchan shinchan     43 мар  4 14:21 duc
+-rw-r--r-- 1 shinchan shinchan     43 мар  4 14:11 duc.mf
+-rw-r--r-- 1 shinchan shinchan     43 мар  4 02:40 file
+-rw-rw-rwx 1 shinchan shinchan 139646 апр  5 13:06 lab1.docx
+-rwxr--r-- 1 shinchan shinchan    286 мая 30 22:53 libLs.sh
+-rw-r--r-- 1 shinchan shinchan      0 мая 30 22:54 lsLog.txt

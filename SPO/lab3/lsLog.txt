@@ -1,0 +1,5 @@
+total 268
+-rw-rw-r-- 1 shinchan shinchan 134715 апр 18 23:44 lab1.docx
+-rw-r--rw- 1 shinchan shinchan 130141 апр 18 23:44 lab1.pdf
+-rwxr--r-- 1 shinchan shinchan    286 мая 30 22:38 libLs.sh
+-rwxrwxrwx 1 shinchan shinchan      0 мая 31 12:48 lsLog.txt
