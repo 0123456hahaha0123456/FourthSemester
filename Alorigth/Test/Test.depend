@@ -1,4 +1,10 @@
 # depslib dependency file v1.0
-1553032543 source:d:\russia\fourthsemester\alorigth\test\main.cpp
-	<bits/stdc++.h>
+1557875612 source:d:\russia\fourthsemester\alorigth\test\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+	<map>
+	<cmath>
+	<iterator>
 
